@@ -1,0 +1,1 @@
+This is just a checkpoint in my progress for theodinproject.
